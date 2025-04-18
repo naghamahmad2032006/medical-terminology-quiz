@@ -179,7 +179,7 @@ export const Quiz = () => {
         imageSrc={imageSrc}
         description={description}
         correctAnswer={correctAnswer}
-        flipDelay={10000}
+        flipDelay={7000}
         answerTime={30000}
         onAnswer={handleAnswer}
       />
