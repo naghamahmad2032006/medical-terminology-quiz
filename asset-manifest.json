@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/medical-terminology-quiz/static/css/main.d91f907a.css",
+    "main.js": "/medical-terminology-quiz/static/js/main.d220feb7.js",
+    "static/js/453.a11c613d.chunk.js": "/medical-terminology-quiz/static/js/453.a11c613d.chunk.js",
+    "static/media/Picture11.png": "/medical-terminology-quiz/static/media/Picture11.b3d53fb76ae43e84b7f3.png",
+    "static/media/Picture8.png": "/medical-terminology-quiz/static/media/Picture8.3cfc5f519c1b33ee22a8.png",
+    "static/media/Picture9.png": "/medical-terminology-quiz/static/media/Picture9.9e129ce65aca0e1dc74d.png",
+    "static/media/Picture5.png": "/medical-terminology-quiz/static/media/Picture5.db42d7b33ca7e691e152.png",
+    "static/media/Picture2.png": "/medical-terminology-quiz/static/media/Picture2.bf6f0c5803cfc2b3aefa.png",
+    "static/media/Picture13.png": "/medical-terminology-quiz/static/media/Picture13.0dd4715a523a6f3cf115.png",
+    "static/media/Picture14.png": "/medical-terminology-quiz/static/media/Picture14.f73009785f90bcf1e30a.png",
+    "static/media/Picture10.jpg": "/medical-terminology-quiz/static/media/Picture10.301303f795dced2842f9.jpg",
+    "static/media/Picture16.png": "/medical-terminology-quiz/static/media/Picture16.37be5c5968cc979dd650.png",
+    "static/media/Picture15.jpg": "/medical-terminology-quiz/static/media/Picture15.a4ea2e639e17692df112.jpg",
+    "static/media/Picture6.jpg": "/medical-terminology-quiz/static/media/Picture6.2be7a695ec57b89967a9.jpg",
+    "static/media/Picture4.jpg": "/medical-terminology-quiz/static/media/Picture4.290368050268b475c9c7.jpg",
+    "static/media/Picture7.jpg": "/medical-terminology-quiz/static/media/Picture7.89b54e35d80355810d59.jpg",
+    "static/media/Picture12.jpg": "/medical-terminology-quiz/static/media/Picture12.bf5ecf2e9f9a5024ccb5.jpg",
+    "static/media/Picture1.jpg": "/medical-terminology-quiz/static/media/Picture1.45e02114ba388f4424b9.jpg",
+    "static/media/Picture3.jpg": "/medical-terminology-quiz/static/media/Picture3.2bc2ef1f1e8af9bb7d83.jpg",
+    "static/media/logo.svg": "/medical-terminology-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/medical-terminology-quiz/index.html",
+    "main.d91f907a.css.map": "/medical-terminology-quiz/static/css/main.d91f907a.css.map",
+    "main.d220feb7.js.map": "/medical-terminology-quiz/static/js/main.d220feb7.js.map",
+    "453.a11c613d.chunk.js.map": "/medical-terminology-quiz/static/js/453.a11c613d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d91f907a.css",
+    "static/js/main.d220feb7.js"
+  ]
+}
